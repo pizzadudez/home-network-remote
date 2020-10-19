@@ -1,0 +1,5 @@
+comtypes==1.1.7
+enum34==1.1.10
+future==0.18.2
+psutil==5.7.2
+pycaw==20181226
